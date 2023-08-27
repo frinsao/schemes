@@ -1,14 +1,14 @@
 //
-//  schemaTests.swift
-//  schemaTests
+//  SchemaTests.swift
+//  SchemaTests
 //
-//  Created by Jesu Castellano on 27/8/23.
+//  Created by Frinsao on 27/8/23.
 //
 
 import XCTest
-@testable import schema
+@testable import Schema
 
-final class schemaTests: XCTestCase {
+final class SchemaTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,13 +1,13 @@
 //
-//  schemaUITestsLaunchTests.swift
-//  schemaUITests
+//  SchemaUITestsLaunchTests.swift
+//  SchemaUITests
 //
-//  Created by Jesu Castellano on 27/8/23.
+//  Created by Frinsao on 27/8/23.
 //
 
 import XCTest
 
-final class schemaUITestsLaunchTests: XCTestCase {
+final class SchemaUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

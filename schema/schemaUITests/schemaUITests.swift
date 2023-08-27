@@ -1,13 +1,13 @@
 //
-//  schemaUITests.swift
-//  schemaUITests
+//  SchemaUITests.swift
+//  SchemaUITests
 //
-//  Created by Jesu Castellano on 27/8/23.
+//  Created by Frinsao on 27/8/23.
 //
 
 import XCTest
 
-final class schemaUITests: XCTestCase {
+final class SchemaUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

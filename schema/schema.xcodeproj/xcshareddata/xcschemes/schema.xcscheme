@@ -14,23 +14,47 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A09B2C3F2A92A44B0077CC14"
-               BuildableName = "Schemes.app"
-               BlueprintName = "Schemes"
-               ReferencedContainer = "container:Schemes.xcodeproj">
+               BlueprintIdentifier = "728244A72A9B4DA100672DF9"
+               BuildableName = "schema.app"
+               BlueprintName = "schema"
+               ReferencedContainer = "container:schema.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Debug-local"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES"
       shouldAutocreateTestPlan = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "728244B72A9B4DA100672DF9"
+               BuildableName = "schemaTests.xctest"
+               BlueprintName = "schemaTests"
+               ReferencedContainer = "container:schema.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "728244C12A9B4DA100672DF9"
+               BuildableName = "schemaUITests.xctest"
+               BlueprintName = "schemaUITests"
+               ReferencedContainer = "container:schema.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug-Dev"
+      buildConfiguration = "Debug-local"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -43,10 +67,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A09B2C3F2A92A44B0077CC14"
-            BuildableName = "Schemes.app"
-            BlueprintName = "Schemes"
-            ReferencedContainer = "container:Schemes.xcodeproj">
+            BlueprintIdentifier = "728244A72A9B4DA100672DF9"
+            BuildableName = "schema.app"
+            BlueprintName = "schema"
+            ReferencedContainer = "container:schema.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -60,15 +84,15 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A09B2C3F2A92A44B0077CC14"
-            BuildableName = "Schemes.app"
-            BlueprintName = "Schemes"
-            ReferencedContainer = "container:Schemes.xcodeproj">
+            BlueprintIdentifier = "728244A72A9B4DA100672DF9"
+            BuildableName = "schema.app"
+            BlueprintName = "schema"
+            ReferencedContainer = "container:schema.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfiguration = "Debug">
+      buildConfiguration = "Debug-local">
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"

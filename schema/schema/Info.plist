@@ -6,6 +6,10 @@
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
+		<key>CONFIG_EMAIL</key>
+		<string>$(CONFIG_EMAIL)</string>
+		<key>CONFIG_PASSORD</key>
+		<string>$(CONFIG_PASSORD)</string>
 		<key>UISceneConfigurations</key>
 		<dict>
 			<key>UIWindowSceneSessionRoleApplication</key>

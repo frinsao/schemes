@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Schemes
+//  Schema
 //
-//  Created by Frins on 20/8/23.
+//  Created by Frinsao on 27/8/23.
 //
 
 import UIKit
